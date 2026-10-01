@@ -6,17 +6,18 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **1** | 0 | 1 | 0 | `2026-10-01` |
+| **2** | 0 | 2 | 0 | `2026-10-01` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (1)
+### DSA (2)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
-| 0001 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0001 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
+| 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 
 ---
 
