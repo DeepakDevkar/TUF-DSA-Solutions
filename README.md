@@ -18,8 +18,7 @@
 | :---: | :--- | :---: | :---: | :--- | :---: |
 | 0001 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
 | 0002 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0003 | [72. Meeting Rooms
-POTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
+| 0003 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) | 🟢 Easy | `General` | `2026-10-02` |
 
 ---
 
