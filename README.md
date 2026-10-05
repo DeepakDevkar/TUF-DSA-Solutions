@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **6** | 2 | 4 | 0 | `2026-10-05` |
+| **7** | 3 | 4 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (6)
+### DSA (7)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,8 +21,9 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0002 | [399. Binary Tree Longest Consecutive SequencePOTD](./DSA/Trees/binary-tree-longest-consecutive-sequence) | [JAVA](./DSA/Trees/binary-tree-longest-consecutive-sequence/solution.java) | 🟡 Medium | `Trees` | `2026-10-03` |
 | 0003 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
 | 0004 | [Single Input I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0005 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0006 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [JAVA](./DSA/General/meeting-rooms/solution.java) [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) | 🟢 Easy | `General` | `2026-10-02` |
+| 0005 | [Multiple Inputs](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0006 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0007 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
 
 ---
 
