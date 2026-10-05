@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **10** | 6 | 4 | 0 | `2026-10-05` |
+| **11** | 7 | 4 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (10)
+### DSA (11)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,12 +21,13 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0002 | [399. Binary Tree Longest Consecutive SequencePOTD](./DSA/Trees/binary-tree-longest-consecutive-sequence) | [JAVA](./DSA/Trees/binary-tree-longest-consecutive-sequence/solution.java) | 🟡 Medium | `Trees` | `2026-10-03` |
 | 0003 | [Even Odd - I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-1) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-1/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
 | 0004 | [Maximum of Two - I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-3) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-3/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0005 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
-| 0006 | [Single Input I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0007 | [Multiple Inputs](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0008 | [Logical Operators](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0009 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
-| 0010 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
+| 0005 | [Maximum of Three - I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-4) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/branching-4/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0006 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
+| 0007 | [Single Input I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-1/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0008 | [Multiple Inputs](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/input-2/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0009 | [Logical Operators](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0010 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
+| 0011 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
 
 ---
 
