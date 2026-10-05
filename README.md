@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **11** | 7 | 4 | 0 | `2026-10-05` |
+| **12** | 8 | 4 | 0 | `2026-10-05` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (11)
+### DSA (12)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -28,6 +28,7 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0009 | [Logical Operators](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/logical-operator/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
 | 0010 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0011 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
+| 0012 | [Switch Case I](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%2B%2B-Fundamentals%2C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C++-Fundamentals,-Input-Output-and-Control-Flow` | `2026-10-05` |
 
 ---
 
