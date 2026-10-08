@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **19** | 11 | 8 | 0 | `2026-10-08` |
+| **20** | 11 | 9 | 0 | `2026-10-08` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (19)
+### DSA (20)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -34,9 +34,10 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0014 | [Maximum Points You Can Obtain From Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `Sliding-Window` | `2026-10-08` |
 | 0015 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
 | 0016 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [Tab1](./DSA/Beginner-Problems/reverse-a-number/Tab1.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-05` |
-| 0017 | [Switch Case II](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0018 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
-| 0019 | [Switch Case I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0017 | [Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
+| 0018 | [Switch Case II](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0019 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
+| 0020 | [Switch Case I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 
 ---
 
