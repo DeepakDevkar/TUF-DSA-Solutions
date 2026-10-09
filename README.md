@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **21** | 11 | 10 | 0 | `2026-10-08` |
+| **22** | 11 | 11 | 0 | `2026-10-09` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (21)
+### DSA (22)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -21,24 +21,25 @@ POTD](./DSA/General/all-paths-from-source-lead-to-destination) | [JAVA](./DSA/Ge
 | 0002 | [747. Binary Search Tree Iterator II
 POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-Search/binary-search-tree-iterator-ii/solution.java) | 🟡 Medium | `Binary-Search` | `2026-10-04` |
 | 0003 | [399. Binary Tree Longest Consecutive SequencePOTD](./DSA/Trees/binary-tree-longest-consecutive-sequence) | [JAVA](./DSA/Trees/binary-tree-longest-consecutive-sequence/solution.java) | 🟡 Medium | `Trees` | `2026-10-03` |
-| 0004 | [Even Odd - I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-1) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-1/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0005 | [Maximum of Two - I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-3) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-3/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0006 | [Maximum of Three - I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-4) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/branching-4/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0004 | [Even Odd - I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-1) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-1/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0005 | [Maximum of Two - I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-3) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-3/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0006 | [Maximum of Three - I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-4) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/branching-4/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 | 0007 | [960. Build heap from a given ArrayPOTD](./DSA/Heaps/build-heap-from-a-given-array) | [JAVA](./DSA/Heaps/build-heap-from-a-given-array/solution.java) | 🟡 Medium | `Heaps` | `2026-10-01` |
 | 0008 | [Find the length of the Linked List](./DSA/Linked-List/find-the-length-of-the-linked-list) | [JAVA](./DSA/Linked-List/find-the-length-of-the-linked-list/solution.java) | 🟢 Easy | `Linked-List` | `2026-10-08` |
-| 0009 | [Single Input I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/input-1) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/input-1/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0010 | [Multiple Inputs](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/input-2) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/input-2/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0011 | [Print Multiplication Table - I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/iteration-2) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/iteration-2/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0012 | [Logical Operators](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/logical-operator) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/logical-operator/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0009 | [Single Input I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/input-1) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/input-1/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0010 | [Multiple Inputs](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/input-2) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/input-2/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0011 | [Print Multiplication Table - I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/iteration-2) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/iteration-2/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0012 | [Logical Operators](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/logical-operator) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/logical-operator/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 | 0013 | [Majority Element-II](./DSA/Arrays/majority-element-ii) | [JAVA](./DSA/Arrays/majority-element-ii/solution.java) | 🟡 Medium | `Arrays` | `2026-10-01` |
 | 0014 | [Maximum Points You Can Obtain From Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `Sliding-Window` | `2026-10-08` |
 | 0015 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
 | 0016 | [Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [JAVA](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
 | 0017 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [Tab1](./DSA/Beginner-Problems/reverse-a-number/Tab1.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-05` |
 | 0018 | [Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
-| 0019 | [Switch Case II](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0020 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
-| 0021 | [Switch Case I](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%25252B%25252B-Fundamentals%25252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0019 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-09` |
+| 0020 | [Switch Case II](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0021 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
+| 0022 | [Switch Case I](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%2525252B%2525252B-Fundamentals%2525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 
 ---
 
