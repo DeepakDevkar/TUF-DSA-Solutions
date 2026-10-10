@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **24** | 13 | 11 | 0 | `2026-10-10` |
+| **25** | 14 | 11 | 0 | `2026-10-10` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (24)
+### DSA (25)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -40,8 +40,9 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0020 | [Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
 | 0021 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-09` |
 | 0022 | [Switch Case II](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0023 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
-| 0024 | [Switch Case I](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0023 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [JAVA](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-10` |
+| 0024 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
+| 0025 | [Switch Case I](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%25252525252B%25252525252B-Fundamentals%25252525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%252525252B%252525252B-Fundamentals%252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 
 ---
 
