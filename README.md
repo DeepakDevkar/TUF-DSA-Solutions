@@ -6,13 +6,13 @@
 
 | Total Solved | 🟢 Easy | 🟡 Medium | 🔴 Hard | Last Synced |
 | :---: | :---: | :---: | :---: | :---: |
-| **29** | 14 | 15 | 0 | `2026-10-13` |
+| **30** | 14 | 16 | 0 | `2026-10-13` |
 
 ---
 
 ## 🗂️ Solved Problems Index
 
-### DSA (29)
+### DSA (30)
 
 | # | Title | Solution(s) | Difficulty | Topic | Last Synced |
 | :---: | :--- | :---: | :---: | :--- | :---: |
@@ -36,17 +36,18 @@ POTD](./DSA/Binary-Search/binary-search-tree-iterator-ii) | [JAVA](./DSA/Binary-
 | 0016 | [Maximum Points You Can Obtain From Cards](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-) | [JAVA](./DSA/Sliding-Window/maximum-points-you-can-obtain-from-cards-/solution.java) | ⚪ Unspecified | `Sliding-Window` | `2026-10-08` |
 | 0017 | [72. Meeting RoomsPOTD](./DSA/General/meeting-rooms) | [Solution-2](./DSA/General/meeting-rooms/Solution-2.java) [JAVA](./DSA/General/meeting-rooms/solution.java) | 🟢 Easy | `General` | `2026-10-02` |
 | 0018 | [Recursive Bubble Sort](./DSA/Sorting/recursive-bubble-sort) | [JAVA](./DSA/Sorting/recursive-bubble-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-10-13` |
-| 0019 | [Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [JAVA](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
-| 0020 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-12` |
-| 0021 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [Tab1](./DSA/Beginner-Problems/reverse-a-number/Tab1.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-05` |
-| 0022 | [Reverse a String I](./DSA/Beginner-Problems/reverse-a-string-i) | [Tab1](./DSA/Beginner-Problems/reverse-a-string-i/Tab1.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-10` |
-| 0023 | [Reverse an array 2](./DSA/Beginner-Problems/reverse-an-array-ii) | [JAVA](./DSA/Beginner-Problems/reverse-an-array-ii/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-10` |
-| 0024 | [Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
-| 0025 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-09` |
-| 0026 | [Switch Case II](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%2525252525252B%2525252525252B-Fundamentals%2525252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
-| 0027 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [JAVA](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-10` |
-| 0028 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
-| 0029 | [Switch Case I](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%2525252525252B%2525252525252B-Fundamentals%2525252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0019 | [Recursive Insertion Sort](./DSA/Sorting/recursive-insertion-sort) | [JAVA](./DSA/Sorting/recursive-insertion-sort/solution.java) | 🟡 Medium | `Sorting` | `2026-10-13` |
+| 0020 | [Reverse a Doubly Linked List](./DSA/Linked-List/reverse-a-doubly-linked-list) | [JAVA](./DSA/Linked-List/reverse-a-doubly-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
+| 0021 | [Reverse a LL](./DSA/Linked-List/reverse-a-ll) | [JAVA](./DSA/Linked-List/reverse-a-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-12` |
+| 0022 | [Reverse a number](./DSA/Beginner-Problems/reverse-a-number) | [Tab1](./DSA/Beginner-Problems/reverse-a-number/Tab1.cpp) | 🟡 Medium | `Beginner-Problems` | `2026-10-05` |
+| 0023 | [Reverse a String I](./DSA/Beginner-Problems/reverse-a-string-i) | [Tab1](./DSA/Beginner-Problems/reverse-a-string-i/Tab1.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-10` |
+| 0024 | [Reverse an array 2](./DSA/Beginner-Problems/reverse-an-array-ii) | [JAVA](./DSA/Beginner-Problems/reverse-an-array-ii/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-10` |
+| 0025 | [Search in Linked List](./DSA/Linked-List/search-in-linked-list) | [JAVA](./DSA/Linked-List/search-in-linked-list/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-08` |
+| 0026 | [Segregate odd and even nodes in Linked List](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll) | [JAVA](./DSA/Linked-List/segregate-odd-and-even-nodes-in-ll/solution.java) | 🟡 Medium | `Linked-List` | `2026-10-09` |
+| 0027 | [Switch Case II](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/string-switch) | [CPP](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/string-switch/solution.cpp) | 🟢 Easy | `C%2525252525252B%2525252525252B-Fundamentals%2525252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
+| 0028 | [Sum of Digits in a Given Number](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number) | [JAVA](./DSA/Beginner-Problems/sum-of-digits-in-a-given-number/solution.java) | 🟢 Easy | `Beginner-Problems` | `2026-10-10` |
+| 0029 | [Sum of Highest and Lowest Frequency](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency) | [JAVA](./DSA/Beginner-Problems/sum-of-highest-and-lowest-frequency/solution.java) | 🟡 Medium | `Beginner-Problems` | `2026-10-07` |
+| 0030 | [Switch Case I](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/switch-case-beginner) | [CPP](./DSA/C%252525252525252B%252525252525252B-Fundamentals%252525252525252C-Input-Output-and-Control-Flow/switch-case-beginner/solution.cpp) | 🟢 Easy | `C%2525252525252B%2525252525252B-Fundamentals%2525252525252C-Input-Output-and-Control-Flow` | `2026-10-05` |
 
 ---
 
